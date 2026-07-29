@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/pavan1173/leetcode/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/pavan1173/leetcode/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/pavan1173/leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
