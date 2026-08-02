@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pavan1173/leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/pavan1173/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/pavan1173/leetcode/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/pavan1173/leetcode/tree/master/0168-excel-sheet-column-title) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavan1173/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/pavan1173/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/pavan1173/leetcode/tree/master/0072-edit-distance) |
+| [0168-excel-sheet-column-title](https://github.com/pavan1173/leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Stack
 |  |
 | ------- |
