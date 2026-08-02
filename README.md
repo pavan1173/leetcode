@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/pavan1173/leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavan1173/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -64,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pavan1173/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/pavan1173/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavan1173/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pavan1173/leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/pavan1173/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavan1173/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pavan1173/leetcode/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/pavan1173/leetcode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -99,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pavan1173/leetcode/tree/master/0062-unique-paths) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/pavan1173/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
