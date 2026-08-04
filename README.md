@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/pavan1173/leetcode/tree/master/0071-simplify-path) |
+| [0225-implement-stack-using-queues](https://github.com/pavan1173/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavan1173/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/pavan1173/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/pavan1173/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
