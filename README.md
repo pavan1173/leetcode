@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/pavan1173/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavan1173/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pavan1173/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/pavan1173/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/pavan1173/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavan1173/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavan1173/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/pavan1173/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/pavan1173/leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
