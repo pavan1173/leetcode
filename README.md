@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pavan1173/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/pavan1173/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/pavan1173/leetcode/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/pavan1173/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/pavan1173/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pavan1173/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/pavan1173/leetcode/tree/master/0064-minimum-path-sum) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pavan1173/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavan1173/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/pavan1173/leetcode/tree/master/0049-group-anagrams) |
 | [3731-find-missing-elements](https://github.com/pavan1173/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavan1173/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/pavan1173/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/pavan1173/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/pavan1173/leetcode/tree/master/0072-edit-distance) |
 | [0168-excel-sheet-column-title](https://github.com/pavan1173/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pavan1173/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pavan1173/leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/pavan1173/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavan1173/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
