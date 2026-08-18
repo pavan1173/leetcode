@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pavan1173/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavan1173/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/pavan1173/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/pavan1173/leetcode/tree/master/0049-group-anagrams) |
 | [3731-find-missing-elements](https://github.com/pavan1173/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pavan1173/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pavan1173/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/pavan1173/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/pavan1173/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/pavan1173/leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/pavan1173/leetcode/tree/master/0089-gray-code) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavan1173/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/pavan1173/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/pavan1173/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/pavan1173/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/pavan1173/leetcode/tree/master/0072-edit-distance) |
