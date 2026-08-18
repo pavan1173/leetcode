@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pavan1173/leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/pavan1173/leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/pavan1173/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/pavan1173/leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/pavan1173/leetcode/tree/master/0089-gray-code) |
