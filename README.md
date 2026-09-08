@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pavan1173/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavan1173/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavan1173/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/pavan1173/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/pavan1173/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/pavan1173/leetcode/tree/master/3903-smallest-stable-index-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/pavan1173/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
