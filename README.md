@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavan1173/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pavan1173/leetcode/tree/master/0013-roman-to-integer) |
+| [0044-wildcard-matching](https://github.com/pavan1173/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/pavan1173/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/pavan1173/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/pavan1173/leetcode/tree/master/0072-edit-distance) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pavan1173/leetcode/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/pavan1173/leetcode/tree/master/0044-wildcard-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/pavan1173/leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/pavan1173/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/pavan1173/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/pavan1173/leetcode/tree/master/0072-edit-distance) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/pavan1173/leetcode/tree/master/0044-wildcard-matching) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavan1173/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Design
 |  |
