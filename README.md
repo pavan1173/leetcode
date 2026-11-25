@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pavan1173/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavan1173/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavan1173/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/pavan1173/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavan1173/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/pavan1173/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavan1173/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pavan1173/leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/pavan1173/leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/pavan1173/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/pavan1173/leetcode/tree/master/0204-count-primes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavan1173/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pavan1173/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pavan1173/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pavan1173/leetcode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pavan1173/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
 |  |
@@ -230,4 +233,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/pavan1173/leetcode/tree/master/0278-first-bad-version) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pavan1173/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pavan1173/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pavan1173/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pavan1173/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
