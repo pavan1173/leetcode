@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pavan1173/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/pavan1173/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/pavan1173/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/pavan1173/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavan1173/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavan1173/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/pavan1173/leetcode/tree/master/0204-count-primes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavan1173/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pavan1173/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/pavan1173/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/pavan1173/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [3731-find-missing-elements](https://github.com/pavan1173/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/pavan1173/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/pavan1173/leetcode/tree/master/0182-duplicate-emails) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pavan1173/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
